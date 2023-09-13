@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3>Hi there👋🏼, I'm Dilanka Nirmal.<br>
-👨🏼‍🎓 Following Bsc. specialized in Software Engineering @SLIIT University 💻</h3>
+👨🏼‍🎓 Graduated with BSc. specialized in Software Engineering @SLIIT University 💻</h3>
 
 </div>
 

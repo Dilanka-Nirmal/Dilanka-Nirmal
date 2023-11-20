@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Dilanka Nirmal</h1>
+<h1 align="center">Hey 👋🏼, I'm Dilanka Nirmal</h1>
 
 - 🎓 Software Engineering graduate from **SLIIT University**
 

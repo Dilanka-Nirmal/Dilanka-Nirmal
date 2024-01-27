@@ -2,7 +2,7 @@
 
 - 🎓 Software Engineering graduate from **SLIIT University**
 
-- 🌱 I’m currently learning **JavaScript, Java, React.JS, Node.JS & Spring Boot**
+- 🌱 I’m currently learning **JavaScript, Java, React.JS, Node.JS**
 
 - 💬 Ask me about **Software Engineering**
 

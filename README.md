@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋🏼, I'm Dilanka Nirmal</h1>
 
-- 🎓 Software Engineering graduate from **SLIIT University**
+- 🎓 Software Engineering graduate **@SLIIT University**
 
 - 🌱 I’m currently learning **JavaScript, Java, React.JS & Node.JS**
 

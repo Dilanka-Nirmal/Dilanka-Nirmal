@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋🏼, Welcome to my GitHub account!...</h1>
+<h1 align="center">Hey 👋🏼, Welcome to My Github Account!...</h1>
 
 - 🎓 Software Engineering graduate **@SLIIT University**
 

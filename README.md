@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋🏼, I'm Dilanka Nirmal</h1>
+<h1 align="center">Hey 👋🏼, Welcome to my GitHub account!...</h1>
 
 - 🎓 Software Engineering graduate **@SLIIT University**
 
